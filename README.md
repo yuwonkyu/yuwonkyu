@@ -20,13 +20,7 @@
           <br/><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=glichlich> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=glichlich"> </a>
-         <a href=mailto:duck01777@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:duck01777@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
+       </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Wonkyu&bg_color=60,33e1be,008ee6&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wonkyu&layout=compact&bg_color=60,33e1be,008ee6&title_color=ffffff&text_color=ffffff"
