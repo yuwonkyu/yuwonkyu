@@ -1,9 +1,8 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=2da4b4&height=120&text=&animation=&fontColor=000000&fontSize=70" />
-    </div>
+       </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 소개합니다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 운동, 그림, 대화를 좋아합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">저는 코딩, 운동, 그림, 대화를 좋아합니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
